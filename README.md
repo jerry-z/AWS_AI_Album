@@ -9,4 +9,4 @@ The following project implements a photo album web application, that can be sear
 
 The following image showcases the AWS architecture 
 
-![screenshot](imgs/architecture_album.JPG)
+![screenshot](imgs/architecture.JPG)
